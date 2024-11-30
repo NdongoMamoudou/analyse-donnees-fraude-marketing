@@ -1,6 +1,4 @@
 
-Voici quelques icônes que vous pouvez utiliser dans votre README pour ajouter du visuel et rendre votre présentation plus attractive. Vous pouvez utiliser des icônes sous forme de emojis ou des bibliothèques d'icônes (comme FontAwesome) si vous le souhaitez. En voici quelques-unes pour chaque section de votre projet :
-
 📊 Projet d'Analyse des Données Clients
 📌 Description
 Ce projet explore les comportements d'achat des clients d'une entreprise à travers un dataset de campagne marketing. L'objectif est d'analyser les données des clients, de comprendre leurs habitudes d'achat, et d'appliquer une segmentation basée sur leurs revenus et dépenses. Le tout est présenté via un tableau de bord interactif Streamlit.

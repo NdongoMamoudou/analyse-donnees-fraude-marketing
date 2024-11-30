@@ -1,0 +1,16 @@
+# Ignorer l'environnement virtuel
+/envEDA/
+
+# Ignorer les données (dossier de données volumineux)
+/data/
+
+# Ignorer les fichiers de configuration d'IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers Python compilés
+*.pyc
+*.pyo
+
+# Ignorer les checkpoints de Jupyter Notebook
+*.ipynb_checkpoints
